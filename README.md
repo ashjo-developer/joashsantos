@@ -110,8 +110,8 @@ A calming mental wellness chatbot app with a purple & mint UI built using React 
 
 ## 📬 Let's Connect
 
-* 🌐 [your-portfolio.com](https://your-portfolio.com)
+* 🌐 [Portfolio](https://joashsantos.netlify.app)
 * 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-* 📫 [your@email.com](mailto:your@email.com)
+* 📫 [juaszie@gmail.com](mailto:juaszie@gmail.com)
 
 > I'm always down to collaborate, talk tech, or brainstorm cool side projects. Let's build something awesome together 💡
