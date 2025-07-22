@@ -22,8 +22,14 @@ name: Joash Irvin M. Santos
 role: Full-Stack Developer
 focus: AI-Powered Apps | Laravel | Flask | React Native
 location: Urdaneta City, Philippines 🇵🇭
-hobbies: ["coding", "UI polishing", "experimenting with AI", "tech memes"]
+hobbies:
+  - coding
+  - UI polishing
+  - experimenting with AI
+  - tech memes
+```
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -38,6 +44,14 @@ hobbies: ["coding", "UI polishing", "experimenting with AI", "tech memes"]
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**Networking & Infrastructure**  
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-PacketTracer-0078D7?style=flat-square&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/-VLANs-444444?style=flat-square)
+![OSPF](https://img.shields.io/badge/-OSPF-FF8800?style=flat-square)
+![EIGRP](https://img.shields.io/badge/-EIGRP-0052CC?style=flat-square)
+![RIP](https://img.shields.io/badge/-RIP-FF2D20?style=flat-square)
+
 **Tools & Platforms**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -49,36 +63,39 @@ hobbies: ["coding", "UI polishing", "experimenting with AI", "tech memes"]
 ## 🌟 Featured Projects
 
 ### 🔐 AskMateAI
+
 An AI-powered job application portal built with Laravel, integrating GPT & Gemini APIs for document validation and automated replies.
 
 **Highlights:**
-- 📄 PDF preview and validation system for admins
-- 🤖 GPT/Gemini-powered chat assistant for job seekers
-- ✅ Approval/disapproval workflow with visual status
+* 📄 PDF preview and validation system for admins
+* 🤖 GPT/Gemini-powered chat assistant for job seekers
+* ✅ Approval/disapproval workflow with visual status
 
 [🔗 View Repo](https://github.com/yourusername/askmateai)
 
 ---
 
 ### 🕒 DTR Tracker App
+
 A Flask web app that lets users track daily work hours with calendar-based summaries and downloadable reports.
 
 **Highlights:**
-- 📊 Monthly breakdown with target hour tracking
-- 🗂️ Export/import reports as CSV/PDF
-- ✍️ Edit past entries and review history by date
+* 📊 Monthly breakdown with target hour tracking
+* 🗂️ Export/import reports as CSV/PDF
+* ✍️ Edit past entries and review history by date
 
 [🔗 View Repo](https://github.com/yourusername/dtr-tracker)
 
 ---
 
 ### 🧘‍♀️ Mental Health Chatbot UI
+
 A calming mental wellness chatbot app with a purple & mint UI built using React Native + Tailwind + Expo Router.
 
 **Highlights:**
-- 💬 Real-time chatting with local mood-tracking
-- 🎨 Clean, consistent mobile-first UI
-- 📱 Built with Expo Router + TypeScript
+* 💬 Real-time chatting with local mood-tracking
+* 🎨 Clean, consistent mobile-first UI
+* 📱 Built with Expo Router + TypeScript
 
 [🔗 View Repo](https://github.com/yourusername/mental-bot)
 
@@ -86,16 +103,15 @@ A calming mental wellness chatbot app with a purple & mint UI built using React 
 
 ## 📊 GitHub Stats
 
-![Joash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Joash's GitHub stats](https://github-readme-stats.vercel.app/api?username=joashirvin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joashirvin&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Let's Connect
 
-- 🌐 [your-portfolio.com](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📫 [your@email.com](mailto:your@email.com)
+* 🌐 [your-portfolio.com](https://your-portfolio.com)
+* 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+* 📫 [your@email.com](mailto:your@email.com)
 
-> I’m always down to collaborate, talk tech, or brainstorm cool side projects. Let’s build something awesome together 💡
-
+> I'm always down to collaborate, talk tech, or brainstorm cool side projects. Let's build something awesome together 💡
